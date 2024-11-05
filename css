@@ -1,0 +1,6 @@
+article p::first-line {
+    font-size: 200%;
+    font-weight: bold;
+    font-family: fantasy;
+    color: aquamarine;
+}
